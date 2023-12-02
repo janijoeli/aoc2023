@@ -1,0 +1,17 @@
+.label init=$80d
+.label add_to_digit=$860
+.label no_rollover=$874
+.label next_line=$81b
+.label read_1st_digit=$81d
+.label update_input_ptr=$83d
+.label done=$877
+.label input=$878
+.label update_sum=$847
+.label read_2nd_digit=$82c
+.namespace zp {
+  .label tens=$403
+  .label ones=$404
+  .label input_ptr=$39
+}
+.label end=$85a
+.label do_update_sum=$85d
