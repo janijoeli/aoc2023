@@ -9,8 +9,6 @@
 .label update_sum=$847
 .label read_2nd_digit=$82c
 .namespace zp {
-  .label tens=$403
-  .label ones=$404
   .label input_ptr=$39
 }
 .label end=$85a
