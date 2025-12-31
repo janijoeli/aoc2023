@@ -1,0 +1,14 @@
+al C:80d .init
+al C:867 .add_to_digit
+al C:87b .no_rollover
+al C:5e00 .patterns
+al C:81b .next_line
+al C:81d .read_1st_digit
+al C:83d .update_input_ptr
+al C:87e .done
+al C:87f .input
+al C:847 .update_sum
+al C:82c .read_2nd_digit
+al C:39 .input_ptr
+al C:861 .end
+al C:864 .do_update_sum
